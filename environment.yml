@@ -1,0 +1,14 @@
+name: stats
+channels: 
+    - conda-forge
+dependencies:
+    - python=3.7.*
+    - jupyter=1.0.0
+    - numpy
+    - pandas
+    - pip
+    - seaborn
+    - matplotlib
+    - scipy
+
+
